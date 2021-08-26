@@ -1,0 +1,13 @@
+.Tea {
+  text-align: center;
+}
+.Tea img {
+  width: 40%;
+  height: 40%;
+}
+
+.Tea a {
+  display: block;
+  color: black;
+  font-size: 1.5em;
+}

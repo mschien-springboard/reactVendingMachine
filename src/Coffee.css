@@ -1,0 +1,13 @@
+.Coffee {
+  text-align: center;
+}
+.Coffee img {
+  width: 40%;
+  height: 40%;
+}
+
+.Coffee a {
+  display: block;
+  color: black;
+  font-size: 1.5em;
+}

@@ -1,0 +1,13 @@
+.Soda {
+  text-align: center;
+}
+.Soda img {
+  width: 40%;
+  height: 40%;
+}
+
+.Soda a {
+  display: block;
+  color: black;
+  font-size: 1.5em;
+}
